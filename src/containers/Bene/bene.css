@@ -1,0 +1,15 @@
+.main {
+    background-color: #f6f0e7;
+}
+
+.detail {
+    border-bottom: 1px solid black;
+}
+
+.detail-col {
+    border-left: 2px solid #f9b3a1;
+}
+
+.image-section {
+    background-color: #f9b2b1
+}
