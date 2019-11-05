@@ -2,7 +2,7 @@ import React from 'react';
 import { Switch, Route } from 'react-router-dom';
 
 // import Home from '../containers/HomeScreen/home';
-import Bene from './containers/Bene/bene';
+import Bene from './containers/Bene/Bene';
 
 
 const MainRouter = () => (

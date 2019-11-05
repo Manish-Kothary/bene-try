@@ -1,15 +1,53 @@
-.main {
-    background-color: #f6f0e7;
+
+body {
+    font-family: Montserrat !important;
 }
+
+button {
+    border-radius: unset !important;
+}
+
+.main {
+    background-color: #FAF7F5;
+}
+
+/* .product-subtitle{
+    font-family: Ovo;
+    font-size: 24px;
+} */
 
 .detail {
     border-bottom: 1px solid black;
 }
 
 .detail-col {
-    border-left: 2px solid #f9b3a1;
+    border-left: 1px solid #CFA564;
+    font-family: Montserrat-Light;
 }
 
 .image-section {
-    background-color: #f9b2b1
+    background-color: #F2EEEB
+}
+
+.image-section img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+.label {
+    font-size: 20px;
+}
+
+.product-details .data {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: left;
+}
+
+#addToCartBtn {
+    min-width: 210px;
 }
