@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
-import PrdouctDescription from '../../components/PrdouctDescription';
-import PrdouctDetails from '../../components/PrdouctDetails';
+import PrdouctDescription from '../../components/ProductDescription';
+import PrdouctDetails from '../../components/ProductDetails';
 import ImageUrl from '../../assets/cbd-oil.png';
 import ProductPageImageUrl from '../../assets/product-page.png';
 import './Bene.css';
