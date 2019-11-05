@@ -1,9 +1,10 @@
 import React, { Component, Fragment } from 'react';
-import PrdouctDescription from '../components/PrdouctDescription';
-import PrdouctDetails from '../components/PrdouctDetails';
+import PrdouctDescription from '../../components/PrdouctDescription';
+import PrdouctDetails from '../../components/PrdouctDetails';
 import ImageUrl from '../../assets/cbd-oil.png';
 import ProductPageImageUrl from '../../assets/product-page.png';
 import './Bene.css';
+
 
 export default class Bene extends Component {
     constructor(props) {
